@@ -1,0 +1,1 @@
+sudo ethtool -K veth4 rx off tx off
